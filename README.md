@@ -1,11 +1,11 @@
 # unPivot
 Background:
-- When we need to maintain a pivot.csv, if any update, how can we have a SOP for tracing diff?
+- When we need to maintain a pivot.csv, if any update, can we have a SOP for tracing diff?
 
 Actions:
-- py
+- .py
 - read pivot.csv -> DataFrame -> unPivot.csv
-- sh
+- .sh
 - diff -> html
 
 Ref:
